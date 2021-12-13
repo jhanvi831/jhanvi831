@@ -66,7 +66,7 @@ height="175px"/></a>
 ## Connect with me:
 <p align="left">
 
-<a href = "www.linkedin.com/in/jhanvi-mimani"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/jhanvi-mimani-70854a191/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 </p>
