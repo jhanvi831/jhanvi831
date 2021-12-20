@@ -15,7 +15,7 @@ height="175px"/></a>
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://......com)** -->
 
-- 📫 Reach reach at my mails: **jhanvi13mimani@gmail.com**
+- 📫 Reach me at my mail: **jhanvi13mimani@gmail.com**
 
 ## 🚀 Languages and Tools:
 
