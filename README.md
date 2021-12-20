@@ -70,8 +70,7 @@ height="175px"/></a>
 </p>
 
 ## ❤ Views and Followers
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jhanvi831">
-</a> -->
-![Image of https://github.com/formidablae/my_github_profile_views_counter](https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg)](https://github.com/formidablae/my_github_profile_views_counter)
+</a>
 <a href="https://github.com/jhanvi831?tab=followers"><img src="https://img.shields.io/github/followers/jhanvi831?label=Followers&style=social" alt="GitHub Badge"></a>
