@@ -15,22 +15,20 @@ height="175px"/></a>
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://......com)** -->
 
-- 📫 How to reach me **jhanvi13mimani@gmail.com**
-
-<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
+- 📫 Reach reach at my mails: **jhanvi13mimani@gmail.com**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="http://www.cplusplus.com/" target="_blank"> <img src="https://tse1.mm.bing.net/th?id=OIP.aL5DlB-SN-ao86qbUCO7oAHaHa&pid=Api&P=0&w=300&h=300" alt="C++" width="48" height="48"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width:"48" height:"48"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width:"48" height:"48"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"  width:"48" height:"48"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"  width:"48" height:"48"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"  width:"48" height:"48"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"  width:"48" height:"48"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>    
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"  width:"48" height:"48"/> </a> 
     <a href="https://angular.io/" target="_blank"><img src="https://tse4.mm.bing.net/th?id=OIP.Ca8m7_pPKZlmP5bgC7UfCgHaH0&pid=Api&P=0&w=300&h=300" width="48" height="48"></a>
     <a href="https://numpy.org/" target="_blank"><img src="https://user-images.githubusercontent.com/50221806/86498222-c4c12800-bd39-11ea-9709-160ad4ba63e1.png" width="48" height="48"></a>
     <a href="" target="_blank"><img src="https://www.bgp4.com/wp-content/uploads/2019/08/Scikit_learn_logo_small.svg_-840x452.png" width="65" height="48" alt="scikit-learn"></a>
@@ -72,7 +70,8 @@ height="175px"/></a>
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jhanvi831">
-</a>
+</a> -->
+![Image of https://github.com/formidablae/my_github_profile_views_counter](https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg)](https://github.com/formidablae/my_github_profile_views_counter)
 <a href="https://github.com/jhanvi831?tab=followers"><img src="https://img.shields.io/github/followers/jhanvi831?label=Followers&style=social" alt="GitHub Badge"></a>
