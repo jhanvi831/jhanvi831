@@ -7,9 +7,11 @@ height="175px"/></a>
 
 ## 🙋‍♂️ About Me
 
+- I'm working as a **Software Associate Trainee** in **NRI FinTech**.
+
 - I’m currently working on developing my **skills** as an aspiring **software engineer**.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Full Stack Development in Java**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -65,8 +67,8 @@ height="175px"/></a>
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/jhanvi-mimani-70854a191/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
+<a href = "https://twitter.com/me_rCY_10"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/separatist.mercy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
