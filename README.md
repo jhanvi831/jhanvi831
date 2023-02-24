@@ -7,7 +7,7 @@ height="175px"/></a>
 
 ## 🙋‍♂️ About Me
 
-- I'm working as a **Software Associate Trainee** in **NRI FinTech**.
+- I'm working as a **Software Associate Trainee** at **NRI FinTech**.
 
 <!-- - I’m currently working on developing my **skills** as an aspiring **software engineer**. -->
 
