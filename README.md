@@ -2,14 +2,14 @@
 height="175px"/></a>
 
 <h1 align="center">Hey ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Jhanvi</h1>
-<h3 align="center">A Passionate learner for Life</h3>
+<h3 align="center">Just tryna learn and grow through life!</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - I'm working as a **Software Associate Trainee** in **NRI FinTech**.
 
-- I’m currently working on developing my **skills** as an aspiring **software engineer**.
+<!-- - I’m currently working on developing my **skills** as an aspiring **software engineer**. -->
 
 - 🌱 I’m currently learning **Full Stack Development in Java**
 
@@ -58,7 +58,7 @@ height="175px"/></a>
 <br/>
 <br/>
 
-<a href="https://github.com/jhanvi831/github-readme-activity-graph"><img alt="Jhanvi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jhanvi831&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/jhanvi831/github-readme-activity-graph"><img alt="Jhanvi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jhanvi831&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
