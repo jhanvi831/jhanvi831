@@ -2,7 +2,7 @@
 height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Jhanvi.</h1>
-<h3 align="center">Just tryna learn and grow through life!</h3>
+<h3 align="center">I'm excited to be part of the Github community and to connect with other like-minded individuals who share my passion for technology. Feel free to reach out if you want to chat or collaborate on any cool projects!</h3>
 
 
 ## 🙋‍♂️ About Me
